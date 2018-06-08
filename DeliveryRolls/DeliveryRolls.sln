@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryRolls", "Pizzeria\DeliveryRolls.csproj", "{3E07F91A-A4AA-40F9-B8C8-3AE669C77ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "ClassLibrary3\ClassLibrary3.csproj", "{52FAEA1F-A765-4ED4-8E73-BA119C63F4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E07F91A-A4AA-40F9-B8C8-3AE669C77ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E07F91A-A4AA-40F9-B8C8-3AE669C77ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E07F91A-A4AA-40F9-B8C8-3AE669C77ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E07F91A-A4AA-40F9-B8C8-3AE669C77ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FAEA1F-A765-4ED4-8E73-BA119C63F4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FAEA1F-A765-4ED4-8E73-BA119C63F4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FAEA1F-A765-4ED4-8E73-BA119C63F4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FAEA1F-A765-4ED4-8E73-BA119C63F4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16B4B32-6310-4412-9B90-937AE0E721CF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\bin\Debug\ClassLibrary3.dll
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\bin\Debug\ClassLibrary3.pdb
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\obj\Debug\DeliveryRolls.csprojResolveAssemblyReference.cache
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\obj\Debug\DeliveryRolls.Form1.resources
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\obj\Debug\DeliveryRolls.csproj.GenerateResource.Cache
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb

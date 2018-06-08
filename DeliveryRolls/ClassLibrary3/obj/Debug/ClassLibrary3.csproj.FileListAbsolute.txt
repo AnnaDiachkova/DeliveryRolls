@@ -1,0 +1,11 @@
+C:\Users\Артур\source\repos\Pizzeria\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\Артур\source\repos\Pizzeria\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\Артур\source\repos\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+C:\Users\Артур\source\repos\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\Артур\source\repos\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.csprojResolveAssemblyReference.cache
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\днс\Downloads\Pizzeria\Pizzeria\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
